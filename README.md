@@ -32,7 +32,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                        SYSTEM PROFILE                            ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  role      →  B.Tech EE @ NSUT Delhi  |  CGPA: 8.30              ║
+║  role      →  B.Tech EE @ NSUT Delhi  |  CGPA: 8.55              ║
 ║  focus     →  Software Development Engineering + DSA             ║
 ║  dsa       →  350+ LeetCode  (129E · 200M · 14H)                 ║
 ║  stack     →  C++ · React · Next.js · Node.js · MongoDB          ║
